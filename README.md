@@ -1,6 +1,6 @@
 - 
 
-- 👀 I’m interested in programming and webdevelopment
+- 
 
 - 🌱 I’m currently learning ... PHP, SQL, Wordpress
 - 💞️ I’m looking to collaborate on ... some cool online project.
@@ -25,6 +25,7 @@ You can click the Preview link to take a look at your changes.
   <body>
     <div class="container">
       <h1> 👋 Hi, I’m @baddodg3r - but you may also call me René </h1>
+      <p>👀 I’m interested in programming and webdevelopment</p>
     </div>
   </body>
 </html>
