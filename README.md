@@ -1,11 +1,3 @@
-- 
-
-- 
-
-- 🌱 I’m currently learning ... PHP, SQL, Wordpress
-- 💞️ I’m looking to collaborate on ... some cool online project.
-- 📫 How to reach me ... well - over here?
-
 <!---
 baddodg3r/baddodg3r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -21,8 +13,10 @@ You can click the Preview link to take a look at your changes.
   <body>
     <div class="container shadow-sm p-3 mb-5 bg-body-tertiary rounded">
       <h1> 👋 Hi, I’m @baddodg3r - but you may also call me René </h1>
-      <p>👀 I’m interested in programming and webdevelopment</p>
-      
+      <p> 👀 I’m interested in programming and webdevelopment</p>
+      <p> 🌱 I’m currently learning ... PHP, SQL, Wordpress </p>
+      <p> 💞️ I’m looking to collaborate on ... some cool online project.</p>
+      <p> 📫 How to reach me ... well - over here?</p>
     </div>
     
   <!-- <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js" 
