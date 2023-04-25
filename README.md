@@ -19,10 +19,10 @@ You can click the Preview link to take a look at your changes.
               crossorigin="anonymous">
   </head>
   <body>
-    <div class="container">
+    <div class="container shadow-sm p-3 mb-5 bg-body-tertiary rounded">
       <h1> 👋 Hi, I’m @baddodg3r - but you may also call me René </h1>
       <p>👀 I’m interested in programming and webdevelopment</p>
-      <button type="button" class="btn btn-primary">Primary</button>
+      
     </div>
     
   <!-- <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js" 
