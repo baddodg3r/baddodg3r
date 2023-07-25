@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
     <div class="container shadow-sm p-3 mb-5 bg-body-tertiary rounded">
       <h1> 👋 Hi, I’m @baddodg3r - but you may also call me René </h1>
       <p> 👀 I’m interested in programming and webdevelopment</p>
-      <p> 🌱 I’m currently learning ... PHP, SQL, Python, Wordpress </p>
+      <p> 🌱 I’m currently learning ... PHP, SQL, Python, CSS (deep diving) </p>
       <p> 💞️ I’m looking to collaborate on ... some cool online project.</p>
       <p> 📫 How to reach me ... well - over here?</p>
     </div>
