@@ -14,8 +14,8 @@ You can click the Preview link to take a look at your changes.
     <div class="container shadow-sm p-3 mb-5 bg-body-tertiary rounded">
       <h1> 👋 Hi, I’m @baddodg3r - but you may also call me René </h1>
       <p> 👀 I’m interested in programming and webdevelopment</p>
-      <p> 💁 Have skills in: HTML / PHP, CSS, JS, SQL, Python </p>
-      <p> 🌱 I’m currently learning ... Python🐍 (advanced), to work on Linux 🐧, Kivy - Language (kivylang and in that way also kivyMD)</p>
+      <p> 💁 Have skills in: HTML / PHP, CSS, JS, SQL, Python, kivy and kivyMD </p>
+      <p> 🌱 I’m currently learning ... at WISS Zurich - "Computer Science Expert in Application Development" </p>
       <p> 💞️ I’m looking to collaborate on ... some cool online project.</p>
       <p> 📫 How to reach me ... well - over here?</p>
     </div>
