@@ -23,7 +23,8 @@ My toolbox: Python, Java, Bash, Docker – and a healthy respect for the unexpec
   _No Kotlin. Just willpower and Pythonic stubbornness._
 
 - 💬 **Messenger App (WIP)**  
-  A Spring Boot-based chat app using Java, SQL, and a functional mindset.
+  A real-time messaging app using **MongoDB** for storage and **MQTT** for message delivery.  
+  Built in Java. Event-driven. Lightweight. No SQL – because I like speed and challenge.
 
 - 🧱 **Docker Everything**  
   From MongoDB to Minecraft – if it can run in a container, I made it run in a container.
