@@ -10,7 +10,8 @@ Welcome to my GitHub – part portfolio, part playground, part therapy.
 
 ## 🧠 Who am I?
 
-Currently working at [Monos.one](https://monos.one), where I tame **IoT beasts**, script **Loxone** brains, and wire up smart energy systems using **MQTT** and **Modbus**.  
+I started coding in **January 2022** and haven’t looked back since.  
+Currently studying **Applikationsentwicklung at WISS Zürich**, while working at [Monos.one](https://monos.one) where I tame **IoT beasts**, script **Loxone** brains, and wire up smart energy systems using **MQTT** and **Modbus**.  
 My toolbox: Python, Java, Bash, Docker – and a healthy respect for the unexpected.
 
 ---
@@ -34,27 +35,38 @@ My toolbox: Python, Java, Bash, Docker – and a healthy respect for the unexpec
 
 ## 🔌 What I Tinker With at Monos.one
 
-- 🔄 **MQTT** for real-time communication with automation systems
-- 🔧 **Modbus TCP** – protocol quirks and reliability hacks
-- 🏠 **Loxone Exosphere** – Workspace magic & scripting madness
-- ⚡ **Energieoptimierung** – solar panels, heat pumps, load balancing
+- 🔄 **MQTT** for real-time communication with automation systems  
+- 🔧 **Modbus TCP** – protocol quirks and reliability hacks  
+- 🏠 **Loxone Exosphere** – Workspace magic & scripting madness  
+- ⚡ **Energieoptimierung** – solar panels, heat pumps, load balancing  
 - 🧠 Designing systems that are smarter than they look – and dumber than they claim
+
+---
+
+## 🎓 What I Learn at WISS
+
+- Functional Programming with Java (Streams, Lambdas, Pure Functions)  
+- Unit Testing, Clean Code & Refactoring  
+- SQL databases & JDBC integration  
+- Spring Boot & API design  
+- Cloud architectures (Docker, 12-Factor App, SaaS & migration strategies)  
+- Real projects. Real deadlines. Real coffee.
 
 ---
 
 ## 💡 What I Know
 
-**Languages & Tools**
-- Java | Python | JavaScript | SQL | Bash | HTML/CSS  
-- Spring Boot | Kivy/KivyMD | MongoDB | MySQL | Docker & Compose  
-- Git | REST APIs | Power Query | MQTT | Modbus | Loxone  
-- openSUSE Tumbleweed (because real devs roll)
+**Languages & Tools**  
+Java | Python | JavaScript | SQL | Bash | HTML/CSS  
+Spring Boot | Kivy/KivyMD | MongoDB | MySQL | Docker & Compose  
+Git | REST APIs | Power Query | MQTT | Modbus | Loxone  
+openSUSE Tumbleweed (because real devs roll)
 
-**Concepts That Stuck (Some Even On Purpose):**
-- Functional Programming: `map()`, `filter()`, `reduce()`, pure functions
-- Unit Testing, Refactoring, Clean Code
-- JSON marshalling/unmarshalling
-- 12-Factor App design & cloud migration strategies
+**Concepts That Stuck (Some Even On Purpose):**  
+Functional Programming: `map()`, `filter()`, `reduce()`, pure functions  
+Unit Testing, Refactoring, Clean Code  
+JSON marshalling/unmarshalling  
+12-Factor App design & cloud migration strategies
 
 ---
 
