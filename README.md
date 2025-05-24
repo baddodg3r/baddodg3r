@@ -40,7 +40,7 @@ My toolbox: Python, Java, Bash, Docker – and a healthy respect for the unexpec
 - 🔧 **Modbus TCP** – protocol quirks and reliability hacks  
 - 🏠 **Loxone Exosphere** – Workspace magic & scripting madness  
 - ⚡ **Energy Optimization** – solar panels, heat pumps, load balancing
-- - 📈 **Excel Power Query** – recursive API access, data cleansing, and automation pipelines   
+- 📈 **Excel Power Query** – recursive API access, data cleansing, and automation pipelines   
 - 🧠 Designing systems that are smarter than they look – and dumber than they claim
 
 ---
