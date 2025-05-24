@@ -1,28 +1,87 @@
-<!---
-baddodg3r/baddodg3r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<!DOCTYPE html>
-<html>
-  <head>
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" 
-              rel="stylesheet" 
-              integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" 
-              crossorigin="anonymous">
-  </head>
-  <body>
-    <div class="container shadow-sm p-3 mb-5 bg-body-tertiary rounded">
-      <h1> 👋 Hi, I’m @baddodg3r - but you may also call me René </h1>
-      <p> 👀 I’m interested in programming and webdevelopment</p>
-      <p> 💁 Have skills in: HTML / PHP, CSS, JS, SQL, Python, kivy and kivyMD </p>
-      <p> 🌱 I’m currently learning ... at WISS Zurich - "Computer Science Expert in Application Development" </p>
-      <p> 💞️ I’m looking to collaborate on ... some cool online project.</p>
-      <p> 📫 How to reach me ... well - over here?</p>
-    </div>
-    
-  <!-- <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js" 
-              integrity="sha384-ENjdO4Dr2bkBIFxQpeoTz1HIcje39Wm4jDKdf19U8gI4ddQ3GYNS7NTKfAdVQSZe" 
-              crossorigin="anonymous"></script> -->
-  </body>
-</html>
- 
+# 👋 Grüezi mitenand – I'm René Rudat
+
+> Developer. Debugger. Disassembler of bad ideas since 2022.  
+> "Learning by doing... and debugging. Mostly debugging."
+
+I'm a German developer living in Switzerland since 2009 – now deep into software, automation, and the occasional existential crisis caused by semicolons.  
+Welcome to my GitHub – part portfolio, part playground, part therapy.
+
+---
+
+## 🧠 Who am I?
+
+Currently working at [Monos.one](https://monos.one), where I tame **IoT beasts**, script **Loxone** brains, and wire up smart energy systems using **MQTT** and **Modbus**.  
+My toolbox: Python, Java, Bash, Docker – and a healthy respect for the unexpected.
+
+---
+
+## ⚡ What I Build
+
+- 🍏 **Greenii App**  
+  A multilingual marketplace for urban gardeners, built in Python with KivyMD.  
+  _No Kotlin. Just willpower and Pythonic stubbornness._
+
+- 💬 **Messenger App (WIP)**  
+  A Spring Boot-based chat app using Java, SQL, and a functional mindset.
+
+- 🧱 **Docker Everything**  
+  From MongoDB to Minecraft – if it can run in a container, I made it run in a container.
+
+- 📊 **Power Query Kung-Fu**  
+  Airtable API pagination with recursion in Excel? Yes. And yes, it works.
+
+---
+
+## 🔌 What I Tinker With at Monos.one
+
+- 🔄 **MQTT** for real-time communication with automation systems
+- 🔧 **Modbus TCP** – protocol quirks and reliability hacks
+- 🏠 **Loxone Exosphere** – Workspace magic & scripting madness
+- ⚡ **Energieoptimierung** – solar panels, heat pumps, load balancing
+- 🧠 Designing systems that are smarter than they look – and dumber than they claim
+
+---
+
+## 💡 What I Know
+
+**Languages & Tools**
+- Java | Python | JavaScript | SQL | Bash | HTML/CSS  
+- Spring Boot | Kivy/KivyMD | MongoDB | MySQL | Docker & Compose  
+- Git | REST APIs | Power Query | MQTT | Modbus | Loxone  
+- openSUSE Tumbleweed (because real devs roll)
+
+**Concepts That Stuck (Some Even On Purpose):**
+- Functional Programming: `map()`, `filter()`, `reduce()`, pure functions
+- Unit Testing, Refactoring, Clean Code
+- JSON marshalling/unmarshalling
+- 12-Factor App design & cloud migration strategies
+
+---
+
+## 🔭 Currently Exploring
+
+- 🏠 Building a homeserver with 10 Gbit/s LAN and Nextcloud  
+- 🔐 Spring Security & JWT authentication  
+- ⚡ Integrating MQTT, Modbus & Loxone into real-world energy systems  
+- 🧪 Teaching tech through code, coffee and chaos
+
+---
+
+## 🧙‍♂️ Fun Facts
+
+- 🇩🇪 German by birth, 🇨🇭 Swiss by choice  
+- 👨‍👧‍👧 Father of two daughters – my best teachers and QA testers  
+- 🏍️ Motorbike enthusiast, sailor, and tabletop gamer  
+- 🐧 Proud user of openSUSE Tumbleweed – stability is for amateurs  
+- ☕ Writes better code after midnight (or with espresso)
+
+---
+
+## 🤝 Let’s Connect
+
+Like what you see? Want to collaborate, rage about Modbus quirks, or just ask why I don’t use emojis?  
+**Open source is my playground – feel free to fork, star or PR. Just don’t break prod.**
+
+---
+
+_This README runs in openSUSE. All bugs are handcrafted. No emojis were harmed._
