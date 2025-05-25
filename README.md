@@ -27,7 +27,7 @@ My toolbox: Python, Java, Bash, Docker – and a healthy respect for the unexpec
   Built in Java. Event-driven. Lightweight. No SQL – because I like speed and challenge.
 
 - 🧱 **Docker Everything**  
-  From MongoDB to Minecraft – if it can run in a container, I made it run in a container.
+  From MongoDB to Minecraft – if it can run in a container, I will make it run in a container (or die trying ;)).
 
 - 📊 **Power Query Kung-Fu**  
   Airtable API pagination with recursion in Excel? Yes. And yes, it works.
