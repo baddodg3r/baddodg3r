@@ -1,4 +1,4 @@
-# 👋 Grüezi mitenand – I'm René Rudat
+# 👋 Grüezi mitenand – I'm René
 
 > Developer. Debugger. Disassembler of bad ideas since 2022.  
 > "Learning by doing... and debugging. Mostly debugging."
